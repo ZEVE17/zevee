@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Bienvenidos a la página interactiva de Tulipanes Amarillos</h1>
+    <h1>Bienvenida joha a esta pagina interactiva de Tulipanes Amarillos</h1>
     <div class="garden">
         <div class="tulip" id="tulip1"></div>
         <div class="tulip" id="tulip2"></div>
